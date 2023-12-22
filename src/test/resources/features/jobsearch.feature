@@ -1,7 +1,7 @@
-@author_BP @regression
+@author_VP @regression
 Feature: Job search results functionality
     As a user, I should be able to select options and search jobs
-@author_BP @regression
+@author_VP @regression
 Scenario Outline: VerifyJobSearchResultUsingDifferentDataSet
   Given I am on Home Page
   When  I enter job title "<jobTitle>"
